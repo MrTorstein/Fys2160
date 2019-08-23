@@ -21,3 +21,5 @@ axis( [-0.1, 0.1, 0, 1200] )
 savefig("Figur02.png")
 
 show()
+
+#Dette er en test
